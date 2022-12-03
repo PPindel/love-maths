@@ -1,19 +1,19 @@
-# ENGINE BOOST GARAGE
+# BLACKJACK GAME
 
-![obraz](https://user-images.githubusercontent.com/114284732/196185141-5c873353-27ae-45e0-9d00-1f6629154e57.png)
+![image](https://user-images.githubusercontent.com/114284732/205451278-ef7537f1-c53f-43a4-97f5-6fd1f31eb790.png)
 
-https://ppindel.github.io/engine-boost-garage/
+https://ppindel.github.io/blackjack-game/
 
-Portfolio Project 1
+Portfolio Project 2
 
 # Author
 Przemyslaw Pindel
 
 # Project Overview
 
-![obraz](https://user-images.githubusercontent.com/114284732/196185496-7a0a0a03-4843-4857-989f-f807ae442476.png)
+![image](https://user-images.githubusercontent.com/114284732/205451310-5ae7872c-40e5-43d0-bc52-842c86e28672.png)
 
-Engine Boost Garage is a website of a garage specializing in tuning car engines and components. The dark theme with a contrasting orange color is a reference to late-night rides in the light of street lamps - an activity loved by every car lover, Need for Speed, Fast and Furious, or JDM fan. Also provides clarity, readability, and aesthetics.
+Blackjack Game is just a simple, relaxing card game perfect for long winter evenings. Get yourself a cup of hot chocolate and try your luck against computer!
 
 ## Table of Contents
 
